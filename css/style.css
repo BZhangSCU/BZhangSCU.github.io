@@ -873,7 +873,7 @@ h6,
   border-radius: 0.4rem;
   background-size: cover;
   background-position: center;
-  background-image: url("/images/banner/banner.jpg");
+  background-image: url("/images/banner/banner_about.jpg");
   overflow: hidden;
 }
 .banner::before {
